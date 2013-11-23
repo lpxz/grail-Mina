@@ -1,0 +1,6 @@
+Just open the shell, and type:
+lpxz@lpxz-ThinkPad-W530:~/mina$ telnet 127.0.0.1 9999
+Trying 127.0.0.1...
+Connected to 127.0.0.1.
+Escape character is '^]'.
+Connection closed by foreign host.
